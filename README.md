@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello! I'm S. Madan</h1>
 
 <p align="center">
-  🎓 Final-Year EEE Student at VIT Chennai <br>
+  🎓 Pre Final-Year EEE Student at VIT Chennai <br>
   🔧 Embedded Systems | IoT | PCB Design | Real-Time Projects <br>
   🚀 Passionate about building impactful tech innovations <br>
 </p>
