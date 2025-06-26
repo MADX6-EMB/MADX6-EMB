@@ -77,7 +77,7 @@
 
 <p align="center">
   <a href="mailto:madan.s2023@vitstudent.ac.in"><img src="https://img.shields.io/badge/Email-@madans2023-blue?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/madan_s2023"><img src="https://img.shields.io/badge/LinkedIn-S. Madan-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="www.linkedin.com/in/madan-saravanan-a53ab628a"><img src="https://img.shields.io/badge/LinkedIn-S. Madan-blue?style=for-the-badge&logo=linkedin"/></a>
 </p>
 
 ---
