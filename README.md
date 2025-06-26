@@ -1,92 +1,85 @@
-<h1 align="center">👋 Hello! I'm S. Madan</h1>
+<!-- Hero Banner -->
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7TKD1R7V8fU9krXK/giphy.gif" width="600"/>
+</div>
+
+<h1 align="center">Hi, I'm <b>S. Madan</b> 👋</h1>
+<p align="center">
+  🎓 EEE Student at VIT Chennai · Embedded Systems · IoT · Robotics
+</p>
+
+---
+
+## 🛠️ Tech Stack
 
 <p align="center">
-  🎓 Pre Final-Year EEE Student at VIT Chennai <br>
-  🔧 Embedded Systems | IoT | PCB Design | Real-Time Projects <br>
-  🚀 Passionate about building impactful tech innovations <br>
+  <!-- Add colorful badges for each tech -->
+  <img src="https://img.shields.io/badge/ESP32-3A5FCD?style=for-the-badge&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-D1A103?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/YOLOv5-FF5733?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Embedded_C-00599C?style=for-the-badge" />
 </p>
 
 ---
 
 ## 🌟 Featured Projects
 
-### 🛡️ Fall Detection & Airbag Deployment Vest
-A wearable safety system to protect elderly individuals during falls using ESP32 and MPU6050.
-
-- 📦 Detects real-time falls using accelerometer data
-- ⚙️ Triggers servo motor for airbag inflation via a chemical reaction (H₂O₂ + KI)
-- 🧠 Embedded logic with ESP32
-- 🧪 Patent Applied!
-
-🔗 [View Repository](https://github.com/MADX6-EMB/Fall-Detection-Vest)
+### 🛡️ Fall Detection & Airbag Vest  
+![C++](https://img.shields.io/badge/language-C++-00599C?style=for-the-badge&logo=c%2B%2B)  
+- Wearable ESP32 vest detecting falls via MPU6050  
+- Deploys airbag using servo & H₂O₂+KI  
+- Patent pending ✔️  
+🔗 [Repo](https://github.com/MADX6-EMB/Fall-Detection-Vest)
 
 ---
 
-### 🚗 Wi-Fi Controlled Robot Car
-A 4-wheel robot car controlled via mobile using ESP32 and L298N.
-
-- 📶 Web-based Wi-Fi control via IP
-- ⚙️ Dual-motor control using L298N driver
-- 🧠 Programmed in Embedded C
+### 🚗 Wi‑Fi Controlled Robot Car  
+![C](https://img.shields.io/badge/language-C-00599C?style=for-the-badge)  
+- 4WD car driven by ESP32 over web interface  
 
 ---
 
-### 🚰 Automated Water Dispenser with App Control
-IoT-based water dispensing system integrated with a custom mobile app.
-
-- 📲 User can control water dispensing via Android app
-- 💧 Flow sensors and solenoid valves used
-- 🌐 Cloud integration (Firebase or Blynk)
+### 🚰 Automated Water Dispenser  
+![Android](https://img.shields.io/badge/app-Android%20App-green?style=for-the-badge&logo=android)  
+- Dispenses water via servo controlled from mobile app  
 
 ---
 
-### ⚡ IoT-Based Energy Meter
-A smart electricity meter that tracks power consumption and sends live data.
-
-- 📉 Displays voltage, current, power usage
-- 📲 Sends data to mobile via IoT protocols
-- 🧠 Useful for smart billing and energy management
+### ⚡ IoT Energy Meter  
+![Firebase](https://img.shields.io/badge/firebase-EnergyMeter-yellow?style=for-the-badge)  
+- Tracks voltage/current, pushes live data to mobile  
 
 ---
 
-### 💣 Landmine Detection Robot for Defense
-A robot that detects landmines using sensors and marks GPS location.
-
-- 🪖 Built for war zone & disaster relief operations
-- 📍 GPS + Metal detection integration
-- ⚙️ Controlled via remote/automated scan
+### 💣 Landmine Detector Robot  
+![GPS](https://img.shields.io/badge/GPS-MetalDetector-blue?style=for-the-badge)  
+- Detects mines and logs GPS location remotely  
 
 ---
 
-### 🗑️ Smart Waste Detection System *(WIP)*
-Working on a smart waste monitoring system using YOLOv5 and ESP32.
-
-- 🎯 Detects trash in public areas
-- 🐍 YOLO + Python image classification
-- 🔁 ESP32 for hardware integration
+### 🗑️ Smart Waste Detection (WIP)  
+![YOLO](https://img.shields.io/badge/YOLOv5-ObjectDetection-orange?style=for-the-badge)  
+- Identifies waste using YOLOv5 + ESP32 integration  
 
 ---
 
-## 🛠️ Skills & Tools
+## 📊 GitHub Stats
 
-- 💡 Embedded C | Arduino | ESP32
-- 🐍 Python | OpenCV | YOLOv5
-- ⚙️ OrCAD, KiCad, PCB Design
-- 🔩 Real-Time System Integration
-- 📡 IoT Platforms: Blynk, Firebase
-- 🐙 Git & GitHub for Project Versioning
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MADX6-EMB&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MADX6-EMB&theme=tokyonight" />
+</div>
 
 ---
 
-## 📫 Let’s Connect!
-
-- 📧 Email: madan.s2023@vitstudent.ac.in  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/madan_s2023)  
-- 🌐 Portfolio (Coming Soon)
-
----
+## 📫 Connect with Me
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MADX6-EMB&color=blue" alt="Profile views"/> <br>
-  🧠 "Creating innovations that protect, automate, and inspire."
+  <a href="mailto:madan.s2023@vitstudent.ac.in"><img src="https://img.shields.io/badge/Email-@madans2023-blue?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/madan_s2023"><img src="https://img.shields.io/badge/LinkedIn-S. Madan-blue?style=for-the-badge&logo=linkedin"/></a>
 </p>
+
+---
+
+<p align="center">“Creating tech that protects, powers, and pioneers.”</p>
