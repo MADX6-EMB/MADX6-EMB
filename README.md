@@ -1,6 +1,6 @@
 <!-- Hero Banner -->
 <div align="center">
-  <img src="[https://media.giphy.com/media/3o7TKD1R7V8fU9krXK/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2M0cmN2Z2NkaG8wZHh1amdqaWV3bHI0dnFyNTRwdXl5bzQzcDJxMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUn3C73gqd7Ak4GNu8/giphy.gif)" width="600"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2M0cmN2Z2NkaG8wZHh1amdqaWV3bHI0dnFyNTRwdXl5bzQzcDJxMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUn3C73gqd7Ak4GNu8/giphy.gif" width="600"/>
 </div>
 
 <h1 align="center">Hi, I'm <b>S. Madan</b> 👋</h1>
